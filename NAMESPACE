@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(nbpMatching,sem,MASS,GenSA,AER)
+export(asd,calipers,matches,opt.nearfar,smahal,summ.matches,stat.lambda,eff.ratio)
+importFrom("stats", "anova", "binomial", "cov", "glm", "lm", "mahalanobis", "median", "qnorm", "sd", "uniroot", "var")

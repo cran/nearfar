@@ -1,0 +1,13 @@
+c31adb48a10b311c84a5062c7d4bd9b0 *DESCRIPTION
+5ad4d555aa44e0c82251623ddbb2f679 *NAMESPACE
+3abaa787face5697246f5ed114bd8653 *R/nearfar.R
+f9a0c10d2bc30907e9edd5bb4f9261fa *build/partial.rdb
+0b2a3bf355763277deafebf5932c93f2 *man/asd.Rd
+e26f614a492e39dd19a6b78d43a49fc0 *man/calipers.Rd
+0d2e99a0c093240e51f9f5dc3ea3ccdc *man/eff.ratio.Rd
+f4a53b196ee8f743054e86dd8bf8ebc3 *man/matches.Rd
+e9eae99a8dc3dd1282dcd31b92e938e3 *man/nearfar-package.Rd
+7b528c63a27b4a74810c3f713fde5eca *man/opt.nearfar.Rd
+4aa7e94d1e0249762df8c6189b039f34 *man/smahal.Rd
+4b3d44bdd97888959194cc3e63ef654e *man/stat.lambda.Rd
+251a20100a9c9fac55f17e09c3c7cb80 *man/summ.matches.Rd
