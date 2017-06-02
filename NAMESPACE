@@ -1,4 +1,16 @@
 exportPattern("^[[:alpha:]]+")
-import(nbpMatching,sem,MASS,GenSA,AER)
-export(asd,calipers,matches,opt.nearfar,smahal,summ.matches,stat.lambda,eff.ratio)
-importFrom("stats", "anova", "binomial", "cov", "glm", "lm", "mahalanobis", "median", "qnorm", "sd", "uniroot", "var")
+
+import(nbpMatching)
+
+importFrom(stats, mahalanobis)
+importFrom(MASS, ginv)
+importFrom(car, Anova)
+importFrom(MASS, polr)
+importFrom(GenSA, GenSA)
+importFrom(stats, uniroot)
+importFrom("stats", "anova", "binomial", "cov", "glm", "lm", "median", 
+"qnorm", "sd", "var")
+
+S3method(summary, nf)
+
+export(calipers,matches,opt_nearfar,smahal,summ_matches,eff_ratio,angrist)

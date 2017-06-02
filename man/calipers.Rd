@@ -8,7 +8,7 @@ Matching priority function
 Updates given distance matrix to prioritize specified measured
 confounders in a pair match.  Used in consort with
 \code{\link{matches}} function to prioritize specific measured
-confounders in a near-far match in the \code{\link{opt.nearfar}} function.
+confounders in a near-far match in the \code{\link{opt_nearfar}} function.
 }
 \usage{
 calipers(distmat, variable, tolerance = 0.2)
@@ -25,4 +25,10 @@ calipers(distmat, variable, tolerance = 0.2)
 Returns an updated distance matrix
 }
 
-\seealso{\code{\link{matches}}, \code{\link{opt.nearfar}}}
+\seealso{\code{\link{matches}}, \code{\link{opt_nearfar}}}
+
+\examples{
+dd = mtcars[1:4, 2:3]
+cc = calipers(distmat=smahal(dd), variable=dd$cyl, tolerance=0.2)
+cc
+}
