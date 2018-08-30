@@ -20,8 +20,8 @@ License: \tab GPL-3\cr
 \author{Joseph Rigdon \email{jrigdon@stanford.edu}}
 \references{
 
-Rigdon J, Baiocchi M, Basu S (2017). Near-far matching in R: The nearfar
-package.  Submitted to the Journal of Statistical Software.
+Rigdon J, Baiocchi M, Basu S (2018). Near-far matching in R: The nearfar
+package. Journal of Statistical Software, 86(5), 1-21.
 
 Baiocchi M, Small D, Lorch S, Rosenbaum P (2010). Building a
 stronger instrument in an observational study of perinatal care for

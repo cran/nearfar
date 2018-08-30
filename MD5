@@ -1,11 +1,11 @@
-b6da410e98cc597b7f57fb35715da775 *DESCRIPTION
+8bc7cc876688cda47e3553f700518cf4 *DESCRIPTION
 36f5d3a41116124c50d212b8b21d17e0 *NAMESPACE
 2bea406bacc6e46fcb02ee1193ca40f8 *R/nearfar.R
 e42ace5a734019e8bf61a1ac5a683ac5 *man/angrist.Rd
 18d7f8d9700beeb7df963940bc8f07b3 *man/calipers.Rd
 92dadde1baf8be6634f14dcdc40f5d54 *man/eff_ratio.Rd
 01e9755eb7b2ed98e052e194908d57af *man/matches.Rd
-3019efa4e0f4cee0ae53a76715133926 *man/nearfar-package.Rd
+3d5b70c4ecd2f79ff8b550d36e1de66f *man/nearfar-package.Rd
 d50b3576b863257141b8db01621eff15 *man/opt_nearfar.Rd
 ede32a52169ce76d03baa8a8345b1e88 *man/smahal.Rd
 2be023b70fa53b3bebf0bc2bd327c195 *man/summ_matches.Rd
