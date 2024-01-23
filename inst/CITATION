@@ -1,0 +1,19 @@
+bibentry(bibtype = "Article",
+  title        = "Near-Far Matching in {R}: The {nearfar} Package",
+  author       = c(person(given = "Joseph",
+                          family = "Rigdon",
+                          email = "jrigdon@stanford.edu"),
+                   person(given = "Michael",
+                          family = "Baiocchi"),
+                   person(given = "Sanjay",
+                          family = "Basu")),
+  journal      = "Journal of Statistical Software, Code Snippets",
+  year         = "2018",
+  volume       = "86",
+  number       = "5",
+  pages        = "1--21",
+  doi          = "10.18637/jss.v086.c05",
+
+  header       = "To cite nearfar in publications use:"
+)
+

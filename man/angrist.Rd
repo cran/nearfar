@@ -22,7 +22,7 @@ This data set is a random sample of 1000 observations from the URL
 listed below.
 }
 \source{
-\url{http://economics.mit.edu/faculty/angrist/data1/data/angkru1991}
+\url{https://economics.mit.edu/people/faculty/josh-angrist/angrist-data-archive}
 }
 \references{
   Angrist JD, Krueger AB (1991). Does Compulsory School Attendance

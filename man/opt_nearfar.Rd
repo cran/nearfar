@@ -57,7 +57,7 @@ max.time.seconds = 300)
 
 }
 
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 
 \references{
 Lu B, Greevy R, Xu X, Beck C (2011). Optimal nonbipartite matching and

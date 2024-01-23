@@ -25,7 +25,7 @@ A table of mean variable values for both the ``encouraged'' and
 differences for each variable
 }
 
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 
 \seealso{\code{\link{opt_nearfar}}}
 

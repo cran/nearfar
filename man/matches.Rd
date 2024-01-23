@@ -37,7 +37,7 @@ add IV, sinks, and cutpoint to get near-far match.
 A two-column matrix of row indices of paired matches
 }
 
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 
 \seealso{\code{\link{opt_nearfar}}}
 

@@ -12,7 +12,10 @@
   \item{object}{Object of class ``nf'' returned by \code{\link{opt_nearfar}}}
   \item{\dots}{additional arguments affecting the summary produced}
 }
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\value{
+Returns a summary of results from \code{\link{opt_nearfar}} function
+}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 
 \seealso{\code{\link{opt_nearfar}}}
 

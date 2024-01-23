@@ -35,7 +35,7 @@ eff_ratio(dta, match, outc, trt, alpha)
   instrument in an observational study of perinatal care for premature
   infants. Journal of the American Statistical Association, 105(492), 1285-1296.
 }
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 
 
 \examples{

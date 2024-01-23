@@ -11,13 +11,13 @@
 \tabular{ll}{
 Package: \tab nearfar\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2017-06-01\cr
+Version: \tab 1.3\cr
+Date: \tab 2024-01-15\cr
 License: \tab GPL-3\cr
 }
 }
 
-\author{Joseph Rigdon \email{jrigdon@stanford.edu}}
+\author{Joseph Rigdon \email{jrigdon@wakehealth.edu}}
 \references{
 
 Rigdon J, Baiocchi M, Basu S (2018). Near-far matching in R: The nearfar
